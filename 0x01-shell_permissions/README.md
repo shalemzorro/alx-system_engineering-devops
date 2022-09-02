@@ -1,1 +1,1 @@
-script that gives permissions to all other users except owner and group
+script that sets the mode of the file hello to -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
