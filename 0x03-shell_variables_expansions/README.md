@@ -29,4 +29,3 @@ Shell, init files, variables and expansions
 13 - Write a script that prints a number with two decimal places.
 
 14 - Write a script that converts a number from base 10 to base 16.
-^C
